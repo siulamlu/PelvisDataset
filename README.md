@@ -15,6 +15,6 @@ This data was first published in this journal, please cite it if you use it: ***
 4. F is for female, M is for male;
 5. More tag information about the data can be obtained through the SimpleITK package of python after downloading the data.
 
-# Notation
+# Note
 1. This data is for scientific research only and cannot be used for commercial purposes or clinical research.
 2. If you have any concerns about this data or want more information, please do not hesitate to contact the administrator: siulamlu@gmail.com
