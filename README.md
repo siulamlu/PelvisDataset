@@ -1,4 +1,4 @@
-# Pelvis Segmentation Dataset
+# Pelvis Dataset
 
 This repository stores pelvic CT raw images and manually segmented labelled images in .NII format.
 
